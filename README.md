@@ -1,0 +1,2 @@
+# Precipitation--codechef
+PROBLEM STATEMENT
